@@ -1,6 +1,6 @@
 <h1>Algorithm Visualizer</h1>
-Algorithm Visualizer app helps you understand sorting methods like Bubble Sort, Insertion Sort, and Selection Sort with animations.
-It updates array and visuals in real-time during sorting
+Algorithm Visualizer app helps you understand sorting methods like Bubble Sort, Insertion Sort, and Selection Sort with animations.<br>
+It updates array and visuals in real-time during sorting<br>
 It notifies you instantly when sorting is complete and displaying time and space complexity.
 
 <h2>Hosted Link</h2>
