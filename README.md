@@ -15,3 +15,6 @@ Bootstrap :Bootstrap is utilized for styling the frontend components of the appl
 CSS:CSS styles are applied to improve the presentation and layout of the application.
 
 React Toastify: React Toastify is used to display notifications within the application upon completion of sorting algorithms
+<img src="https://github.com/Bittu121/AlgorithmVisualizer/blob/main/1.png">
+<img src="https://github.com/Bittu121/AlgorithmVisualizer/blob/main/2.png">
+<img src="https://github.com/Bittu121/AlgorithmVisualizer/blob/main/3.png">
