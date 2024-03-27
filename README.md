@@ -18,3 +18,4 @@ React Toastify: React Toastify is used to display notifications within the appli
 <img src="https://github.com/Bittu121/AlgorithmVisualizer/blob/main/1.png">
 <img src="https://github.com/Bittu121/AlgorithmVisualizer/blob/main/2.png">
 <img src="https://github.com/Bittu121/AlgorithmVisualizer/blob/main/3.png">
+<img src="https://github.com/Bittu121/AlgorithmVisualizer/blob/main/4.png">
